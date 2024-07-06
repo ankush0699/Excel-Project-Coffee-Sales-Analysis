@@ -8,4 +8,8 @@ The objective of this project is to perform a detailed analysis and create a das
 ## Sample Size Columns: 18
 ![image](https://github.com/ankush0699/Excel-Project-Coffee-Sales-Analysis/assets/116469387/2b6d0da4-ca61-4899-9385-f79d885c3ddc)
 
+### To see detailed insights and recommendation generated from analysis of sales data please download the ppt or pdf given above in files.
+
+### To look at data used in projects and dashboard to see in depth analysis you can download xlxs (Excel file).
+
 
